@@ -1,3 +1,3 @@
 # RAISE Lab Research Project: Social Game
 !Power Analysis Plots:
-!(/Plots/plot1)
+![Signal Plot](https://github.com/akashgokul/RAISE/blob/master/Plots/plot1.png)
